@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @BluestoneCreeper
-- 👀 I’m interested in learning how to use GitHub and Java programing 
-- 🌱 I’m currently learning Java
-- 📫 How to reach me: formc555@gmail.com
+- 🌱 I’m currently learning Computer Engineering, and Computer Science 
 
 <!---
 BluestoneCreeper/BluestoneCreeper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
